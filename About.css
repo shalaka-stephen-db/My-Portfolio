@@ -1,0 +1,16 @@
+main {
+  background-color: #dce6dc;
+}
+
+.img1 {
+  float: left;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+p {
+  font-size: larger;
+  text-indent: 20px;
+}
